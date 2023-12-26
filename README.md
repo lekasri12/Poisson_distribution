@@ -1,4 +1,8 @@
-# Fitting Poisson  distribution
+#Date :
+```
+Developed by : Leka Sri.G
+reg.no: 212223200025
+```
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -70,10 +74,10 @@ else:
  
 
 # Output : 
+![287287948-3e6d5c07-e62e-44a5-aec4-f3193d96cfc5](https://github.com/lekasri12/Poisson_distribution/assets/149037427/61ac0d3b-546a-4add-a9fc-8eff670f5e56)
 
 
 
 # Results
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
